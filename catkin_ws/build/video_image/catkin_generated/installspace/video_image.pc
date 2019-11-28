@@ -1,0 +1,8 @@
+prefix=/data/catkin_ws/install
+
+Name: video_image
+Description: Description of video_image
+Version: 0.0.0
+Cflags: 
+Libs: -L/data/catkin_ws/install/lib 
+Requires: 

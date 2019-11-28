@@ -1,0 +1,8 @@
+prefix=/data/catkin_ws/install
+
+Name: lane_following
+Description: Description of lane_following
+Version: 1.2.4
+Cflags: 
+Libs: -L/data/catkin_ws/install/lib 
+Requires: 

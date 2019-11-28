@@ -1,0 +1,2 @@
+beginner_tutorials:lane_detect:lane_following:test_pkg:video_image:video_stream
+-DCATKIN_DEVEL_PREFIX=/data/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/data/catkin_ws/install -G Unix Makefiles
